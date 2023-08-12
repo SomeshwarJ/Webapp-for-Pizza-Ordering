@@ -1,0 +1,70 @@
+body {
+	background: url(https://i.pinimg.com/originals/c7/a1/e6/c7a1e61260efd24870eb43d557bdedbe.jpg);
+	background-repeat: no-repeat;
+	background-size: 1400px 870px;
+}
+
+.shipping h2 {
+	font-family: system-ui;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+.prize {
+	margin-right: 90px;
+}
+
+.prize h3 {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	font-family: monospace;
+}
+
+.prize h2 {
+	color: white;
+	font-family: monospace;
+	font-size: 25px;
+	margin-left: 800px;
+	margin-top: -62px;
+}
+
+fieldset {
+	width: 460px;
+	height: 630px;
+	border: 2px solid white ;
+	border-radius: 20px;
+	margin-left: 430px;
+}
+
+input[type=text] {
+	  height: 40px;
+      width: 345px;
+      margin: 20px;
+      margin-left: 52px;
+      border: 1px solid #ABB5C4;
+      background: #F5F7FC;
+      border-radius: 7px;
+    }
+
+    input[type=email] {
+      height: 40px;
+      width: 345px;
+      margin: 20px;
+      margin-left: 52px;
+      border: 1px solid #ABB5C4;
+      background: #F5F7FC;
+      border-radius: 7px;
+    }
+
+    textarea {
+      height: 70px;
+      width: 345px;
+      margin: 20px;
+      margin-left: 52px;
+      border: 1px solid #ABB5C4;
+      background: #F5F7FC;
+      border-radius: 7px;
+    }

@@ -1,0 +1,200 @@
+.top {
+			background: url(https://wallpapershome.com/images/pages/pic_h/16055.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+
+		nav {
+			overflow: hidden;
+			background-color: white;
+		}
+
+		.head {
+			width: 100%;
+			height: 60px;
+			background-color: white;
+		}
+
+		.head img {
+			float: left;
+			width: 85px;
+			height: 60px;
+		}
+
+		.logo {
+			color: black;
+			font-size: 27px;
+			font-family: Bookman, URW Bookman L, serif;
+			text-align: left;
+			margin-top: 0px;
+			float: left;
+			margin: 0px;
+			line-height: 60px;
+			padding-left: 9px;
+		}
+
+		nav a {
+			float: left;
+			color: black;
+			text-align: center;
+			text-decoration: none;
+			padding: 13px 16px 13px 16px;
+			font-size: 17px;
+			line-height: 60px;
+		}
+
+		nav a:hover {
+			color: blue;
+		}
+
+		.content {
+			margin-left: 130px;
+			margin-top: 70px;
+		}
+
+		h2 {
+			font-family: Brush Script MT, Brush Script Std, cursive;
+			font-size: 50px;
+		}
+
+		h3 {
+			font-family: DejaVu Sans Mono, monospace;
+			font-size: 23px;
+		}
+
+		.btn1 {
+			background-color: #53E021;
+			color: white;
+			padding: 16px 30px;
+			font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+			font-size: 22px;
+			font-weight: bold;
+			text-align: center;
+			border: 2px solid white;
+			cursor: pointer;
+			width: 35%;
+			border-radius: 7px;
+		}
+
+		.things {
+			text-align: center;
+			font-family: system-ui;
+			font-size: 35px;
+		}
+
+		.delivery img {
+			width: 360px;
+			height: 150px;
+			margin-left: 37px;
+		}
+
+		div.gallery1 {
+			margin: 10px 35px;
+			border: 1px dotted #ccc;
+			float: left;
+			width: 261px;
+			height: 370px;
+		}
+
+		div.desc1 {
+			padding: 11px;
+			text-align: center;
+		}
+
+		b {
+			font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+			font-size: 18px;
+		}
+
+		.des {
+			font-size: 15px;
+			font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+			font-weight: bold;
+			opacity: 0.7;
+		}
+
+		.des1 {
+			color: red;
+			font-size: 19px;
+			font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+			font-weight: bold;
+		}
+
+		a {
+			text-decoration: none;
+		}
+
+		.termsheader {
+			font-family: system-ui;
+			font-weight: bolder;
+			font-size: 20px;
+			margin-left: 100px;
+			margin-right: 100px;
+		}
+
+		.termscontent {
+			font-family: system-ui;
+			font-size: 15px;
+			margin-left: 100px;
+			margin-right: 100px;
+		}
+
+		.copyrights {
+			background: url(https://i.pinimg.com/originals/e9/13/19/e91319552effdd60830d66c64963084d.jpg);
+			background-repeat: no-repeat;
+		}
+
+		.copycontents {
+			font-family: system-ui;
+			font-weight: bold;
+			font-size: 20px;
+			color: white;
+			margin-left: 790px;
+			padding-top: 100px;
+		}
+
+		.copycontents1 {
+			font-family: system-ui;
+			font-size: 16px;
+			color: white;
+			margin-left: 790px;
+			padding-top: 20px;
+		}
+
+		.center {
+			margin-left: 320px;
+			padding-top: 30px;
+			text-align: center;
+			width: 60%;
+		}
+
+		.copycontents3 {
+			margin-left: 800px;
+			margin-top: 35px;
+			color: white;
+			font-family: system-ui;
+		}
+
+		.copycontents4 {
+			margin-left: 431px;
+			padding-top: 20px;
+			color: white;
+			text-align: center;
+			font-weight: bold;
+			font-family: system-ui;
+
+		}
+
+		.foot {
+			font-size: 30px;
+			color: white;
+			padding: 10px;
+		}
+
+		.reserved {
+			margin-top: 100px;
+			color: white;
+			font-family: system-ui;
+			font-size: 15px;
+			margin-left: 730px;
+		}

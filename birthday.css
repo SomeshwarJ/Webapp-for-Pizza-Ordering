@@ -1,0 +1,184 @@
+.top {
+      background:linear-gradient(to left, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('https://t4.ftcdn.net/jpg/02/60/47/85/360_F_260478533_z32xCFgg321W1NT8Q9P931JJdkpqRCJH.jpg');
+      background-repeat: no-repeat;
+      background-size: 1340px 750px;
+    }
+
+    nav {
+      overflow: hidden;
+      background-color: white;
+    }
+
+    .head {
+      width: 100%;
+      height: 60px;
+      background-color: white;
+    }
+
+    .head img {
+      float: left;
+      width: 85px;
+      height: 60px;
+    }
+
+    .logo {
+      color: black;
+      font-size: 27px;
+      font-family: Bookman, URW Bookman L, serif;
+      text-align: left;
+      margin-top: 0px;
+      float: left;
+      margin: 0px;
+      line-height: 60px;
+      padding-left: 9px;
+    }
+
+    nav a {
+      float: left;
+      color: black;
+      text-align: center;
+      text-decoration: none;
+      padding: 13px 16px 13px 16px;
+      font-size: 17px;
+      line-height: 60px;
+    }
+
+    nav a:hover {
+      color: blue;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .content {
+      margin-left: 110px;
+    }
+
+    h2 {
+      font-family: Brush Script MT, Brush Script Std, cursive;
+      font-size: 50px;
+      color: whitesmoke;
+      text-align: center;
+    }
+
+    .partyheader h2 {
+      text-align: center;
+      font-family: system-ui;
+      font-size: 35px;
+      color: black;
+    }
+
+    .partyheader p {
+      margin-top: -15px;
+      text-align: center;
+      font-family: system-ui;
+      font-size: 15px;
+      font-weight: 500;
+      color: black;
+    }
+
+    input[type=text] {
+      width: 250px;
+      padding: 11px;
+      border: 1px solid #ABB5C4;
+      background: white;
+      border-radius: 7px;
+    }
+
+    input[type=date] {
+      width: 250px;
+      padding: 11px;
+      border: 1px solid #ABB5C4;
+      background: white;
+      border-radius: 7px;
+    }
+
+    .btn1 {
+      background-color: #D83D3D;
+      color: white;
+      padding: 15px 28px;
+      font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+      font-size: 22px;
+      font-weight: bold;
+      text-align: center;
+      border: 2px solid white;
+      cursor: pointer;
+      width: 25%;
+      border-radius: 7px;
+      margin-left: 510px;
+      margin-top: 40px;
+    }
+
+    .btn1:hover {
+      background-color: white;
+      color: #D83D3D;
+      border: 2px solid #D83D3D;
+    }
+
+    .contactyou p {
+      font-size: 20px;
+      font-family: system-ui;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .copyrights {
+      background: url(https://i.pinimg.com/originals/e9/13/19/e91319552effdd60830d66c64963084d.jpg);
+      background-repeat: no-repeat;
+    }
+
+    .copycontents {
+      font-family: system-ui;
+      font-weight: bold;
+      font-size: 20px;
+      color: white;
+      margin-left: 790px;
+      padding-top: 100px;
+    }
+
+    .copycontents1 {
+      font-family: system-ui;
+      font-size: 16px;
+      color: white;
+      margin-left: 790px;
+      padding-top: 20px;
+    }
+
+    .center {
+      margin-left: 320px;
+      padding-top: 30px;
+      text-align: center;
+      width: 60%;
+    }
+
+    .copycontents3 {
+      margin-left: 800px;
+      margin-top: 35px;
+      color: white;
+      font-family: system-ui;
+    }
+
+    .copycontents4 {
+      margin-left: 431px;
+      padding-top: 20px;
+      color: white;
+      text-align: center;
+      font-weight: bold;
+      font-family: system-ui;
+
+    }
+
+    .foot {
+      font-size: 30px;
+      color: white;
+      padding: 10px;
+    }
+
+    .reserved {
+      margin-top: 100px;
+      color: white;
+      font-family: system-ui;
+      font-size: 15px;
+      margin-left: 730px;
+    }

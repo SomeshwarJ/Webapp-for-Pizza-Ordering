@@ -1,0 +1,107 @@
+.header {
+    padding-left: 100px;
+    margin-top: 70px;
+}
+
+.header h1 {
+    font-family: system-ui;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.welcome h2 {
+    font-family: system-ui;
+    font-size: 25px;
+}
+
+.headercontent h3 {
+    font-family: system-ui;
+    font-size: 18px;
+    opacity: 0.5;
+}
+
+input[type=password] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 15px;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+input[type=text],select,input[type=email] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 15px;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+input[type=checkbox] {
+    position: absolute;
+    left:8%;
+    height: 20px;
+}
+
+h4 {
+    margin-top: 3px;
+    margin-left: 25px;
+    font-size: 14px;
+    font-family: system-ui;
+}
+
+.btn1 {
+    background-color: #2081C8;
+    color: white;
+    padding: 16px 30px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid white;
+    cursor: pointer;
+    width: 40%;
+    border-radius: 7px;
+    margin-left: 40px;
+    }
+
+.btn1:hover {
+  background-color: white;
+  color: #2081C8;
+  border: 2px solid #2081C8;
+}
+
+.background {
+    margin-top: -615px;
+    padding-left: 50px;
+}
+
+.background img {
+    height: 684px;
+    width: 777px;
+}
+
+.account {
+    margin-left: 30px;
+}
+
+.account p {
+    font-size: 15px;
+    font-family: system-ui;
+    opacity: 0.5;
+}
+
+.account h4 {
+    margin-top: -37px;
+    margin-left: 170px;
+    font-size: 18px;
+    font-family: system-ui;
+    color: #2081C8;
+}
+
+a {
+    text-decoration: none;
+}

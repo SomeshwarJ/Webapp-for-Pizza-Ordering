@@ -1,0 +1,216 @@
+.top {
+      background: url(https://image.freepik.com/free-photo/tasty-pepperoni-pizza-black-concrete-background_79782-102.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    nav {
+      overflow: hidden;
+      background-color: white;
+    }
+
+    .head {
+      width: 100%;
+      height: 60px;
+      background-color: white;
+    }
+
+    .head img {
+      float: left;
+      width: 85px;
+      height: 60px;
+    }
+
+    .logo {
+      color: black;
+      font-size: 27px;
+      font-family: Bookman, URW Bookman L, serif;
+      text-align: left;
+      margin-top: 0px;
+      float: left;
+      margin: 0px;
+      line-height: 60px;
+      padding-left: 9px;
+    }
+
+    nav a {
+      float: left;
+      color: black;
+      text-align: center;
+      text-decoration: none;
+      padding: 13px 16px 13px 16px;
+      font-size: 17px;
+      line-height: 60px;
+    }
+
+    nav a:hover {
+      color: blue;
+    }
+
+    .content {
+      margin-right: 130px;
+      margin-top: 100px;
+      float: right;
+
+    }
+
+    h2 {
+      font-family: Brush Script MT, Brush Script Std, cursive;
+      font-size: 50px;
+      color: white;
+    }
+
+    h3 {
+      font-family: DejaVu Sans Mono, monospace;
+      font-size: 23px;
+      color: white;
+    }
+
+    .things {
+      text-align: center;
+    }
+
+    .delivery img {
+      width: 360px;
+      height: 150px;
+      margin-right: 37px;
+      float: right;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .copyrights {
+      background: url(https://i.pinimg.com/originals/e9/13/19/e91319552effdd60830d66c64963084d.jpg);
+      background-repeat: no-repeat;
+    }
+
+    .copycontents {
+      font-family: system-ui;
+      font-weight: bold;
+      font-size: 20px;
+      color: white;
+      margin-left: 790px;
+      padding-top: 100px;
+    }
+
+    .copycontents1 {
+      font-family: system-ui;
+      font-size: 16px;
+      color: white;
+      margin-left: 790px;
+      padding-top: 20px;
+    }
+
+    .center {
+      margin-left: 320px;
+      padding-top: 30px;
+      text-align: center;
+      width: 60%;
+    }
+
+    .copycontents3 {
+      margin-left: 800px;
+      margin-top: 35px;
+      color: white;
+      font-family: system-ui;
+    }
+
+    .copycontents4 {
+      margin-left: 431px;
+      padding-top: 20px;
+      color: white;
+      text-align: center;
+      font-weight: bold;
+      font-family: system-ui;
+      text-decoration: none;
+    }
+
+    .foot {
+      font-size: 30px;
+      color: white;
+      padding: 10px;
+    }
+
+    .reserved {
+      margin-top: 100px;
+      color: white;
+      font-family: system-ui;
+      font-size: 15px;
+      margin-left: 730px;
+    }
+
+
+    div.gallery1 {
+      margin: 10px 35px;
+      border: 1px dotted #ccc;
+      float: left;
+      width: 365px;
+      height: 730px;
+      background: url(https://www.bypeople.com/wp-content/uploads/2014/05/light-live-background-css.jpg);
+    }
+
+    .gallery2 {
+      height: 490px;
+    }
+
+    div.desc1 {
+      padding: 20px;
+      text-align: center;
+    }
+
+    b {
+      font-family: system-ui;
+      font-size: 22px;
+    }
+
+    .desc1 h4 {
+      font-family: system-ui;
+      font-size: 20px;
+      margin-top: -2px;
+    }
+
+    .desc1 h5 {
+      font-family: system-ui;
+      font-size: 24px;
+      margin-top: -10px;
+    }
+
+    .des {
+      font-size: 15px;
+      font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+      font-weight: bold;
+      opacity: 0.7;
+      margin-bottom: 20px;
+    }
+
+    .btn1 {
+      background-color: #E33A19;
+      color: white;
+      padding: 16px 20px;
+      font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+      font-size: 22px;
+      font-weight: bold;
+      text-align: center;
+      border: 2px solid white;
+      cursor: pointer;
+      width: 55%;
+      border-radius: 7px;
+      margin-left: 80px;
+      margin-top: 150px;
+    }
+
+    .btn1:hover {
+      background-color: white;
+      color: #E33A19;
+      border: 2px solid red;
+    }
+
+    input[type=text] {
+      padding: 8px 9px;
+      border: 2px solid black;
+      border-radius: 9px;
+      background-color: #F5F4FF;
+      margin-top: -70px;
+    }

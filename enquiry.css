@@ -1,0 +1,246 @@
+    .top {
+      background: url(https://profitboss.com/wp-content/uploads/2019/05/Boston-Pizza-table-and-chairs-1200x675-1110x345.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    nav {
+      overflow: hidden;
+      background-color: white;
+    }
+
+    .head {
+      width: 100%;
+      height: 60px;
+      background-color: white;
+    }
+
+    .head img {
+      float: left;
+      width: 85px;
+      height: 60px;
+    }
+
+    .logo {
+      color: black;
+      font-size: 27px;
+      font-family: Bookman, URW Bookman L, serif;
+      text-align: left;
+      margin-top: 0px;
+      float: left;
+      margin: 0px;
+      line-height: 60px;
+      padding-left: 9px;
+    }
+
+    nav a {
+      float: left;
+      color: black;
+      text-align: center;
+      text-decoration: none;
+      padding: 13px 16px 13px 16px;
+      font-size: 17px;
+      line-height: 60px;
+    }
+
+    nav a:hover {
+      color: blue;
+    }
+
+    .content {
+      margin-right: 100px;
+      margin-top: 60px;
+      float: right;
+
+    }
+
+    h2 {
+      font-family: Brush Script MT, Brush Script Std, cursive;
+      font-size: 50px;
+      color: white;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .workheader {
+      font-family: system-ui;
+      font-size: 30px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .workcontent p {
+      font-family: system-ui;
+      font-size: 20px;
+      margin-left: 50px;
+    }
+
+    .workcontent1 p {
+      font-family: system-ui;
+      font-size: 20px;
+      margin-left: 200px;
+      margin-right: 200px;
+      text-align: center;
+    }
+
+    .workimg img {
+      height: 400px;
+      margin-left: 450px;
+    }
+
+    .together {
+      background: #F1F1F1;
+      height: 550px;
+      width: 700px;
+      margin-left: 50px;
+    }
+
+    .togetherheader {
+      font-size: 30px;
+      font-family: system-ui;
+      font-weight: bold;
+      text-align: center;
+      padding-top: 45px;
+    }
+
+    .togethercontent {
+      font-size: 20px;
+      font-family: system-ui;
+      text-align: center;
+      padding-top: 20px;
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+
+    .togetherimg img {
+      height: 180px;
+      width: 570px;
+      margin-left: 65px;
+      margin-top: 30px;
+    }
+
+    .copyrights {
+      background: url(https://i.pinimg.com/originals/e9/13/19/e91319552effdd60830d66c64963084d.jpg);
+      background-repeat: no-repeat;
+    }
+
+    .copycontents {
+      font-family: system-ui;
+      font-weight: bold;
+      font-size: 20px;
+      color: white;
+      margin-left: 790px;
+      padding-top: 100px;
+    }
+
+    .copycontents1 {
+      font-family: system-ui;
+      font-size: 16px;
+      color: white;
+      margin-left: 790px;
+      padding-top: 20px;
+    }
+
+    .center {
+      margin-left: 320px;
+      padding-top: 30px;
+      text-align: center;
+      width: 60%;
+    }
+
+    .copycontents3 {
+      margin-left: 800px;
+      margin-top: 35px;
+      color: white;
+      font-family: system-ui;
+    }
+
+    .copycontents4 {
+      margin-left: 431px;
+      padding-top: 20px;
+      color: white;
+      text-align: center;
+      font-weight: bold;
+      font-family: system-ui;
+
+    }
+
+    .foot {
+      font-size: 30px;
+      color: white;
+      padding: 10px;
+    }
+
+    .reserved {
+      margin-top: 100px;
+      color: white;
+      font-family: system-ui;
+      font-size: 15px;
+      margin-left: 730px;
+    }
+
+    fieldset {
+      background: #F7FBFF;
+      border: 2px solid white;
+      border-radius: 7px;
+      height: 670px;
+      width: 400px;
+      margin-top: -610px;
+      margin-left: -90px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      position: relative;
+    }
+
+    .formheader b {
+      font-family: system-ui;
+      font-size: 25px;
+      margin-left: 20px;
+    }
+
+    .formheader p {
+      font-family: system-ui;
+      font-size: 18px;
+      margin-top: 3px;
+      margin-left: 20px;
+    }
+
+    input[type=text] {
+      width: 85%;
+      padding: 12px;
+      margin-left: 20px;
+      border: 1px solid #ABB5C4;
+      background: white;
+      border-radius: 7px;
+    }
+
+    input[type=date] {
+      width: 85%;
+      padding: 12px;
+      margin-left: 20px;
+      border: 1px solid #ABB5C4;
+      background: white;
+      border-radius: 7px;
+    }
+
+    .btn1 {
+      background-color: #D83D3D;
+      color: white;
+      padding: 16px 30px;
+      font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+      font-size: 22px;
+      font-weight: bold;
+      text-align: center;
+      border: 2px solid white;
+      cursor: pointer;
+      width: 80%;
+      border-radius: 7px;
+      margin-left: 40px;
+    }
+
+    .btn1:hover {
+      background-color: white;
+      color: #D83D3D;
+      border: 2px solid #D83D3D;
+    }
